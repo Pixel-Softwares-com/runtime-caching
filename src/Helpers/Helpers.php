@@ -3,7 +3,6 @@
 namespace RuntimeCaching\Helpers;
 
 use Exception;
-use Illuminate\Support\MessageBag;
 
 class Helpers
 {
